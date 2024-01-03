@@ -8,7 +8,9 @@
 
 ## Game Design Document 
 
-### Banana Quest - The Diddy Adventure
+Banana Quest - The Diddy Adventure
+
+***
 
 ## Concept
 "Banana Quest - The Diddy Adventure" is a 3D first-person adventure game inspired by classic platformers. Players navigate through vibrant environments from a first-person perspective, collecting bananas for points while overcoming obstacles and solving puzzles.
