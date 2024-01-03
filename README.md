@@ -1,8 +1,4 @@
-### Diddy_Kong
 
-🎮 The classic Diddy Kong platformer transformed into a 3D first-person adventure game.
-
-***
 ![DALL·E 2024-01-02 22 45 44 - A first-person video game scene from the perspective of a player, featuring Diddy Kong on a pirate ship level  The setting is a wooden pirate ship wit](https://github.com/sourceduty/Diddy_Kong/assets/123030236/7cec8ef5-54b6-4793-b9e6-30b5142ab89a)
 ***
 
