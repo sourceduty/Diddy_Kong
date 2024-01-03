@@ -10,7 +10,7 @@
 ### Banana Quest - The Diddy Adventure
 
 ## Concept
-"Banan Quest - The Diddy Adventure" is a 3D first-person adventure game inspired by classic platformers. Players navigate through vibrant environments from a first-person perspective, collecting bananas for points while overcoming obstacles and solving puzzles.
+"Banana Quest - The Diddy Adventure" is a 3D first-person adventure game inspired by classic platformers. Players navigate through vibrant environments from a first-person perspective, collecting bananas for points while overcoming obstacles and solving puzzles.
 
 ## Target Audience
 - Age: 8+
@@ -54,7 +54,7 @@
 - Potential for multiplayer or cooperative modes in future updates.
 
 ## Conclusion
-"Banan Quest - The Diddy Adventure" aims to bring a fresh perspective to the beloved platforming genre, combining classic gameplay with immersive first-person visuals and mechanics.
+"Banana Quest - The Diddy Adventure" aims to bring a fresh perspective to the beloved platforming genre, combining classic gameplay with immersive first-person visuals and mechanics.
 
 #
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
