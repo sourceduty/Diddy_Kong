@@ -1,14 +1,9 @@
+![Diddy Kong](https://github.com/sourceduty/Diddy_Kong/assets/123030236/7cec8ef5-54b6-4793-b9e6-30b5142ab89a)
 
-![DALL·E 2024-01-02 22 45 44 - A first-person video game scene from the perspective of a player, featuring Diddy Kong on a pirate ship level  The setting is a wooden pirate ship wit](https://github.com/sourceduty/Diddy_Kong/assets/123030236/7cec8ef5-54b6-4793-b9e6-30b5142ab89a)
-***
+> The classic Diddy Kong platformer transformed into a 3D first-person adventure game.
 
-## Game Design Document 
+#
 
-Banana Quest - The Diddy Adventure
-
-***
-
-## Concept
 "Banana Quest - The Diddy Adventure" is a 3D first-person adventure game inspired by classic platformers. Players navigate through vibrant environments from a first-person perspective, collecting bananas for points while overcoming obstacles and solving puzzles.
 
 ## Target Audience
@@ -56,5 +51,13 @@ Banana Quest - The Diddy Adventure
 "Banana Quest - The Diddy Adventure" aims to bring a fresh perspective to the beloved platforming genre, combining classic gameplay with immersive first-person visuals and mechanics.
 
 #
-ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
+
+![Mario Gamer](https://github.com/user-attachments/assets/f7af2f34-656b-43f6-9ce3-4d986a246e46)
+
+#
+### Related Links
+
+[Gaming](https://github.com/sourceduty/Gaming)
+
 ***
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
